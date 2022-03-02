@@ -1,4 +1,4 @@
-### <div align="left">I'm Chaltteog, back-end developer 🧛🏻‍♂️</div>  
+### <div align="left">안녕하세요. 백엔드 개발자 Chaltteog(권혁진)입니다. 🧛🏻‍♂️</div>  
   
 <div align="left">Worked as a developer since 2018 🕛</div>  
   
