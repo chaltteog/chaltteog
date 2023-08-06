@@ -14,7 +14,6 @@
 | ⚙️ Engineer | 2016.08 ~ 2017.12 | Solution Engineer & QA |
 
 # 🎯 Projects
-### [Spotify Gist[작업중]](https://github.com/chaltteog/flask-API-server) (Python, ubuntu)  
 ### [파이선 알고리즘](https://github.com/chaltteog/AlgorithmofPython) (Python)  
 <br/>
 
