@@ -19,7 +19,8 @@
 ### [JAVA Algoritm](https://github.com/chaltteog/AlgorithmofJava) (JAVA)  
 ### [Python Algoritm](https://github.com/chaltteog/AlgorithmofPython) (Python)  
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaltteog&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 # 📃 Contacts
 | Site          | Link                          |
