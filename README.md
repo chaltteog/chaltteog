@@ -19,6 +19,8 @@
 ### [JAVA Algoritm](https://github.com/chaltteog/AlgorithmofJava) (JAVA)  
 ### [Python Algoritm](https://github.com/chaltteog/AlgorithmofPython) (Python)  
 <br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaltteog&count_private=true&show_icons=true&theme=prussian&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaltteog&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📃 Contacts
