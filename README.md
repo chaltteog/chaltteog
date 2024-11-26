@@ -7,14 +7,16 @@
 ## 🔭Career
 | Type       | Date       | Contents   |
 | ---------- | ---------- | ---------- |
-| 💻 Server Dev | 2021.03 ~ Now | Client-Server developer |
-| 💻 Backend | 2020.04 ~ Now | Web Backend developer |
+| ⚙️ Engineer | 2024.08 ~ | Atlassian & Devops Engineer |
+| 🪖 army ... | 2022.07 ~ 2023.03 | Korea army ... |
+| 💻 Server Dev | 2021.03 ~ 2022.04 | Client-Server developer |
+| 💻 Backend | 2020.04 ~ 2022.04.29 | Web Backend developer |
 | 💻 Application| 2018.01 ~ 2021.02 | Windows Application developer |
 | 💻 Frontend | 2018.01 ~ 2019.08 | Frontend developer |
 | ⚙️ Engineer | 2016.08 ~ 2017.12 | Solution Engineer & QA |
 
 # 🎯 Projects
-### [파이선 알고리즘](https://github.com/chaltteog/AlgorithmofPython) (Python)  
+
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaltteog&count_private=true&show_icons=true&theme=prussian&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
