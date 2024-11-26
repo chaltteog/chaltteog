@@ -15,12 +15,12 @@
 | 💻 Frontend | 2018.01 ~ 2019.08 | Frontend developer |
 | ⚙️ Engineer | 2016.08 ~ 2017.12 | Solution Engineer & QA |
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 # 🎯 Projects
 ### [JAVA Algoritm](https://github.com/chaltteog/AlgorithmofJava) (JAVA)  
 ### [Python Algoritm](https://github.com/chaltteog/AlgorithmofPython) (Python)  
 <br/>
-
-![](./profile-3d-contrib/profile-night-green.svg)
 
 # 📃 Contacts
 | Site          | Link                          |
